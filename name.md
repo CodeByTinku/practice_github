@@ -1,1 +1,1 @@
-Nam: Tinku Shekhar Das.
+Name: Tinku Shekhar Das.
