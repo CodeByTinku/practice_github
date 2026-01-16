@@ -1,2 +1,1 @@
-Name: Tinku Shekhar Das..
-// fixed typo practice
+Name: Tinku Shekhar Das.
